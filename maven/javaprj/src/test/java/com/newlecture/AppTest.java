@@ -1,4 +1,4 @@
-package com.newlecture.javaprj;
+package com.newlecture;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
