@@ -1,0 +1,12 @@
+{
+  "realm": "coldchain4",
+  "auth-server-url": "http://localhost:8180/",
+  "ssl-required": "external",
+  "resource": "monitoring",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "BcEOEgrocDTbu5xxzUYkfsNMW1gmlgDS"
+  },
+  "use-resource-role-mappings": false,
+  "confidential-port": 0
+}
